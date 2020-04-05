@@ -1,0 +1,2 @@
+#do not upload the server's API key with the rest of the code (would nuke it)
+server.apikey
